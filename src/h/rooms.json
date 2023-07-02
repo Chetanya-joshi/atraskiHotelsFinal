@@ -1,0 +1,42 @@
+
+
+
+[
+    {
+        "id" : "1",
+        "images" : "../images/room1.webp",
+        "charges" : "$350.00 / per night"
+    },
+
+    {
+        "id" : "2",
+        "images" : "../images/room2.webp",
+        "charges" : "$350.00 / per night"
+    },
+
+    {
+        "id" : "3",
+        "images" : "../images/room3.webp",
+        "charges" : "$350.00 / per night"
+    },
+
+    { 
+        "id" : "4",
+        "images" : "../images/room4.webp",
+        "charges" : "$350.00 / per night"
+    },
+ 
+    {
+        "id" : "5",
+        "images" : "../images/room5.webp",
+        "charges" : "$350.00 / per night"
+    },
+
+    {
+        "id" : "6",
+        "images" : "../images/room6.webp",
+        "charges" : "$350.00 / per night"
+    }
+
+    
+]
